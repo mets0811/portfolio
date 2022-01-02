@@ -192,25 +192,25 @@
   .horiseon {
     grid-column: 1/3;
     grid-row: span 2;
-    background-image:url("../portfolio/horiseon.PNG");
+    background-image:url("../images/horiseon.PNG");
   }
   
   .run-buddy-1 {
-    background-image: url("../portfolio/run-buddy.PNG");
+    background-image: url("../images/run-buddy.PNG");
     background-position: 50% 15%;
   }
   
   .run-buddy-2 {
-    background-image: url("../portfolio/run-buddy.PNG");
+    background-image: url("../images/run-buddy.PNG");
     background-position: 60% 50%;
   }
   
   .run-buddy-3 {
-    background-image: url("../portfolio/run-buddy.PNG");
+    background-image: url("../images/run-buddy.PNG");
   }
   
   .portfolio {
-    background-image: url("../portfolio/portfolio_screenshot.png");
+    background-image: url("../images/portfolio_screenshot.png");
   }
   
   .project-name {
